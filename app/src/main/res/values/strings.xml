@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BleBulbTest</string>
+    <string name="start_scan">StartScan</string>
+    <string name="stop_scan">StopScan</string>
+</resources>
